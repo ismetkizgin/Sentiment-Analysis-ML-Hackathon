@@ -1,6 +1,6 @@
 # Sentiment Analysist
 
->10 saatlik bir hackathon sonucunda
+>10 saatlik bir hackathon sonucunda;
 
 Makine öğrenmesi ve Python programlama dili ile basit seviyede bir duygu analizi örneğidir.
 Veri setimizi servisimiz üzerinden linkini gönderdiğimiz hepsiburada ürününün yorumlarını çekerek olumlu veya olumsuz şeklinde json dosyası içine ekler. Servisimiz üzerinden çekilen verileri python ile yazmış olduğumuz projenin içinde çağırarak onu csv dosyasına çevirerek algoritmamızı eğitiyoruz. Flask ile servis haline getirmiş olduğumuz makine öğrenmesi projemizi Asp.net MVC projesine bağlayarak yeni yorumların olumlumu olumsuzmu olduğunu değerlendirdik.
