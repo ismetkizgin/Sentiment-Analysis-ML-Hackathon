@@ -1,5 +1,7 @@
 # Sentiment Analysist
 
+>10 saatlik bir hackathon sonucunda
+
 Makine öğrenmesi ve Python programlama dili ile basit seviyede bir duygu analizi örneğidir.
 Veri setimizi servisimiz üzerinden linkini gönderdiğimiz hepsiburada ürününün yorumlarını çekerek olumlu veya olumsuz şeklinde json dosyası içine ekler. Servisimiz üzerinden çekilen verileri python ile yazmış olduğumuz projenin içinde çağırarak onu csv dosyasına çevirerek algoritmamızı eğitiyoruz. Flask ile servis haline getirmiş olduğumuz makine öğrenmesi projemizi Asp.net MVC projesine bağlayarak yeni yorumların olumlumu olumsuzmu olduğunu değerlendirdik.
 
@@ -10,6 +12,8 @@ Veri setimizi servisimiz üzerinden linkini gönderdiğimiz hepsiburada ürünü
 olarak kabul edilir.
 
 ---
+
+>As a result of a 10-hour hackathon;
 
 It is an example of simple level emotion analysis with machine learning and Python programming language.
 We will send the link of our data set via our service to the comments of Hepsiburada product and add it in  to the json file as positive or negative.We train our algorithm by calling the data taken from our service in the project we wrote with python and converting it to csv file. By linking our machine learning project, which we have made into service with Flask, to the Asp.net MVC project, we evaluated whether the new comments are negative.
